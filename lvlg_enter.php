@@ -1,5 +1,4 @@
-<?php require_once('../Connections/enseignes.php'); ?>
-<?php
+<?php require_once('../Connections/enseignes.php');
 if (!function_exists("GetSQLValueString")) {
 function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDefinedValue = "") 
 {
