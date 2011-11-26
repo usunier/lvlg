@@ -1,0 +1,28 @@
+.content {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: normal;
+	background: #E9E9E9;
+}
+
+.firstheading {
+	font-size: 140%;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	background: #BFBFBF;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.tableau {
+	border: thin solid #000;
+	margin: 0px;
+	padding: 0px;
+	width: 1000px;
+}
+
+.iw_table {
+	border: thin solid #000;
+	margin: 0px;
+	padding: 0px;
+}
