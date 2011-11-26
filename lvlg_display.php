@@ -1,5 +1,7 @@
-<?php require_once('../Connections/enseignes.php'); ?>
-<?php
+<?php 
+// ce programme affiche les commerces par type d'activité
+require_once('../Connections/enseignes.php');
+
 if (!function_exists("GetSQLValueString")) {
 function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDefinedValue = "") 
 {
